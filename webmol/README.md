@@ -1,11 +1,11 @@
 # WebMol: 3D Protein Viewer
 
 ## Link to Project
-http://cvdlab-bio.github.com/webmol/
+http://cvdlab-projects.github.com/webmol/
 
 # Introduction
 WebMol is a 3D Protein Viewer developed in HTML5 and Javascript with the support of PhiloGL (3D WebGL Framework).
-The application is designed to be accessible from Internet and it's compatible with the JSON format of protein provided by the project [WebPdb](https://github.com/cvdlab-bio/webpdb).
+The application is designed to be accessible from Internet and it's compatible with the JSON format of protein provided by the project [WebPdb](https://github.com/cvdlab-projects/webpdb).
 It can download the required proteins via a REST interface provided by WebPdb.
 
 # Features
