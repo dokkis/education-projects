@@ -51,7 +51,7 @@ function ProcessRequest()
 
   // Funzion per scaricare le proteine, cambiare la variabile site per puntare ad altri repository
   function downloadProtein(){
-    var site = "http://cvdlab-projects.github.com/webmol/proteine/";
+    var site = "https://cvdlab-projects.github.com/webmol/proteine/";
     var url = site + document.getElementById('idProtein').value + ".json";
     httpGet(url);
   }
